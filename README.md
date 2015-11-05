@@ -1,5 +1,7 @@
 ## Intro to TDD, RSpec, and Learn
 
+[![Join the chat at https://gitter.im/codeshazbot/intro-to-tdd-rspec-and-learn-001-prework-web](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeshazbot/intro-to-tdd-rspec-and-learn-001-prework-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Objectives
 
 1. Define the purpose of a code test.
